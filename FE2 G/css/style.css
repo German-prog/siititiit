@@ -1,0 +1,29 @@
+*{
+    box-sizing:border-box;
+}
+.wrapper{
+     display:inline-block;
+   margin-right: 100px;
+    align-items:center;
+    text-align:center;
+    padding:40px;
+    background:blue;
+   width:20%;
+   color:white;
+  margin-left:0 auto;
+  margin-bottom:0 auto;
+  margin-top:0 auto;
+}
+
+    
+
+
+ 
+    /*margin-right:-5px;Будет ставать текст через пробелы как хочешь*/
+
+
+/*.wrapper.block{
+    display:flex;
+    justify-content: space-between;
+    align-items:center;
+}выравнивание картинки по центру*/
